@@ -13,6 +13,4 @@ function fibonacci(n) {
   return current;
 }
 
-console.log(fibonacci(6))
-
 module.exports = fibonacci;
